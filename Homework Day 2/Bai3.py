@@ -1,0 +1,1 @@
+print('I’m HIT 14' * 20, sep = "\n", end = "\n")
